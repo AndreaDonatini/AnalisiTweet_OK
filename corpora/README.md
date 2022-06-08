@@ -1,1 +1,1 @@
-File "tweetsAzzurri3" e "tweetsAzzurri4" nella cartella Drive condivisa perchè maggiroi di 50MB.
+File "tweetsAzzurri3" e "tweetsAzzurri4" presenti nella cartella Drive condivisa perchè maggiori di 50MB.
