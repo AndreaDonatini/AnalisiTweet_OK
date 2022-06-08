@@ -1,1 +1,2 @@
-# AnalisiTweet_OK
+# AnalisiTweet
+Sentiment Analysis with tweets
